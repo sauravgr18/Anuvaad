@@ -25,10 +25,4 @@ With aim to make Quality Education accessible to all rooks and corner of India, 
 
 > For further documentation please refer [here](https://flutter.dev/docs/get-started/test-drive?tab=androidstudio)
 
-## Contributors
 
-Gauransh Kumar : [GitHub](https://github.com/gauranshkumar)
-
-Aman Kumar : [GitHub](https://github.com/thisisamank)
-
-Satyam Mishra : [GitHub](https://github.com/satyam86400)
